@@ -1,0 +1,18 @@
+{
+  "name": "com.azeitler.unity-tools",
+  "displayName": "A6Z6 Unity Tools",
+  "version": "0.0.1",
+  "unity": "2018.4",
+  "description": "Shortcuts and essentials tools.",
+  "keywords": ["azeitler", "tools", "shortcuts"],
+  "category": "Tools",
+  "author": {
+    "name": "Andreas Zeitler",
+    "email": "me@azeitler.com",
+    "url": "https://www.azeitler.com"
+  },
+  "dependencies": {
+  },
+  "type": "library",
+  "hideInEditor": false
+}

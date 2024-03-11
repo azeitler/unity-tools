@@ -7,7 +7,7 @@ Unity Tools is a collection of zero-dependency tools and helpers for the Unity E
 Use the Unity package manager [UPM]([https://pip.pypa.io/en/stable/](https://docs.unity3d.com/Manual/upm-ui.html)) to install Unity Tools.
 
 ```json
-"com.azeitler.unity-tools": ""
+"com.azeitler.unity-tools": "https://github.com/azeitler/unity-tools.git"
 ```
 
 ## Usage
